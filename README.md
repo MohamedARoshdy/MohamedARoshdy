@@ -1,4 +1,4 @@
-<h2 align="left">🌟 About Me:</h2>
+<h1 align="left">🌟 About Me:</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hi there 👋, I'm Mohamed Roshdy<br>Aspiring Data Engineer | ITI Trainee<br>Passionate about Data Pipelines, Cloud Solutions, and Big Data Analytics</h2>
+<h1 align="left">Hi there 👋, I'm Mohamed Roshdy<br>Aspiring Data Engineer | ITI Trainee<br>Passionate about Data Pipelines, Cloud Solutions, and Big Data Analytics</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">🎓 ITI Data Engineering Trainee<br>📊 Kaggle Certified in Python, Pandas, and Data Cleaning<br>☁️ AWS Academy Cloud Foundations Certified<br>🔥 Passionate about Data Warehousing, ETL, and SQL<br>💻 Experience with SSIS, SSAS, Power BI, Airbyte, and PostgreSQL<br>🏆 Worked on projects like Gravity Books Data Warehouse and Budget and Revenue Analysis (Fintech)<br>🔎 Exploring Big Data Technologies and Cloud Data Solutions</h4>
+<h3 align="left">🎓 ITI Data Engineering Trainee<br>📊 Kaggle Certified in Python, Pandas, and Data Cleaning<br>☁️ AWS Academy Cloud Foundations Certified<br>🔥 Passionate about Data Warehousing, ETL, and SQL<br>💻 Experience with SSIS, SSAS, Power BI, Airbyte, and PostgreSQL<br>🏆 Worked on projects like Gravity Books Data Warehouse and Budget and Revenue Analysis (Fintech)<br>🔎 Exploring Big Data Technologies and Cloud Data Solutions</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h4 align="left">🔹 Skills:<br>🛠 Programming & Scripting: Python (Pandas, NumPy, Seaborn, Plotly), Bash  <br>💾 Databases: PostgreSQL, SQL Server, MongoDB (using Robo 3T)  <br>⚙️ ETL & Data Engineering Tools: SSIS, Talend  <br>📊 BI & Visualization: Power BI, Matplotlib, SSAS  <br>☁️ Cloud & DevOps: AWS (Cloud Foundations), Databricks (Fundamentals), CI/CD (GitHub Actions, Jenkins)  <br><br>-------------------------> 🚀 Big Data & Cloud Solutions <----------------------  <br>🔹 Hadoop Ecosystem (HDFS, Hive, Spark)  <br>🔹 Apache Spark (PySpark)  <br>🔹 Apache Kafka (Real-time Data Streaming)  <br>🔹 Data Lakehouse (Databricks)  <br>🔹 Cloud Data Warehouses (AWS Redshift, Snowflake)</h4>
+<h3 align="left">🔹 Skills:<br>🛠 Programming & Scripting: Python (Pandas, NumPy, Seaborn, Plotly), Bash  <br>💾 Databases: PostgreSQL, SQL Server, MongoDB (using Robo 3T)  <br>⚙️ ETL & Data Engineering Tools: SSIS, Talend  <br>📊 BI & Visualization: Power BI, Matplotlib, SSAS  <br>☁️ Cloud & DevOps: AWS (Cloud Foundations), Databricks (Fundamentals), CI/CD (GitHub Actions, Jenkins)  <br><br>-------------------------> 🚀 Big Data & Cloud Solutions <----------------------  <br>🔹 Hadoop Ecosystem (HDFS, Hive, Spark)  <br>🔹 Apache Spark (PySpark)  <br>🔹 Apache Kafka (Real-time Data Streaming)  <br>🔹 Data Lakehouse (Databricks)  <br>🔹 Cloud Data Warehouses (AWS Redshift, Snowflake)</h3>
 
 ###
 
