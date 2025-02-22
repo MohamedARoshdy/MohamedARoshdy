@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # تشغيل يوميًا في منتصف الليل
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: MohamedARoshdy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout -b output  # إنشاء الفرع لو مش موجود
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+          git push origin output --force
