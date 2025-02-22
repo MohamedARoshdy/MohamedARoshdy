@@ -11,9 +11,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # جلب كل الفروع لضمان التعامل مع الفرع output
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3  # استخدام أحدث إصدار
         with:
           github_user_name: MohamedARoshdy
           outputs: |
@@ -23,7 +25,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git checkout -b output  # إنشاء الفرع لو مش موجود
+          git checkout output || git checkout -b output
           git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation"
+          git commit -m "Update snake animation" || echo "No changes to commit"
           git push origin output --force
