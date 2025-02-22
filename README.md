@@ -82,7 +82,7 @@
 
 ###
 
-![Snake animation](https://github.com/MohamedARoshdy/MohamedARoshdy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MohamedARoshdy/output/main/dist/github-contribution-grid-snake.svg)
 
 ###
 
