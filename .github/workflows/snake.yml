@@ -1,5 +1,3 @@
-name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 0 * * *"  # تشغيل يوميًا في منتصف الليل
@@ -9,8 +7,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: generate-snake-game-from-github-contribution-grid
+      - uses: Platane/snk@v3.3.0
         with:
           fetch-depth: 0  # جلب كل الفروع لضمان التعامل مع الفرع output
 
