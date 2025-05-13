@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">🔹 Skills:<br>🛠 Programming & Scripting: Python (Pandas, NumPy, Seaborn, Plotly), Bash  <br>💾 Databases: PostgreSQL, SQL Server, MongoDB (using Robo 3T)  <br>⚙️ ETL & Data Engineering Tools: SSIS, Talend  <br>📊 BI & Visualization: Power BI, Matplotlib, SSAS  <br>☁️ Cloud & DevOps: AWS (Cloud Foundations), Databricks (Fundamentals), CI/CD (GitHub Actions, Jenkins)  <br><br>-------------------------> 🚀 Big Data & Cloud Solutions <----------------------  <br>🔹 Hadoop Ecosystem (HDFS, Hive, Spark)  <br>🔹 Apache Spark (PySpark)  <br>🔹 Apache Kafka (Real-time Data Streaming)  <br>🔹 Data Lakehouse (Databricks)  <br>🔹 Cloud Data Warehouses (AWS Redshift, Snowflake)</h3>
+<h3 align="left">🔹 Skills:<br>🛠 Programming & Scripting: Python (Pandas, NumPy, Seaborn, Plotly), Bash  <br>💾 Databases: PostgreSQL, SQL Server, MongoDB (using Robo 3T)  <br>⚙️ ETL & Data Engineering Tools: SSIS, Talend  <br>📊 BI & Visualization: Power BI, Matplotlib, SSAS  <br>☁️ Cloud & DevOps: AWS (Cloud Foundations), Databricks (Fundamentals), CI/CD (GitHub Actions, Jenkins)  <br><br>-------------------------> 🚀 Big Data & Cloud Solutions <----------------------  <br>🔹 Hadoop Ecosystem (HDFS, Hive, Spark)  <br>🔹 Apache Spark (PySpark, SparkSQL, Spark Streaming)  <br>🔹 Apache Kafka (Real-time Data Streaming)  <br>🔹 Data Lakehouse (Databricks)  <br>🔹 Cloud Data Warehouses (AWS Redshift, Snowflake)</h3>
 
 ###
 
